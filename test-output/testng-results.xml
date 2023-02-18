@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T16:45:14 EET" name="Default suite" finished-at="2023-02-17T16:45:33 EET" duration-ms="18469">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T16:45:14 EET" name="Default test" finished-at="2023-02-17T16:45:33 EET" duration-ms="18469">
+      <class name="use_cases.SuccessfulCheckout">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:use_cases.SuccessfulCheckout@128d2484]" started-at="2023-02-17T16:45:09 EET" name="beforeSuite" finished-at="2023-02-17T16:45:14 EET" duration-ms="5020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:use_cases.SuccessfulCheckout@128d2484]" started-at="2023-02-17T16:45:14 EET" name="setup" finished-at="2023-02-17T16:45:25 EET" duration-ms="11199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkout()[pri:0, instance:use_cases.SuccessfulCheckout@128d2484]" started-at="2023-02-17T16:45:25 EET" name="checkout" finished-at="2023-02-17T16:45:33 EET" duration-ms="7221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:use_cases.SuccessfulCheckout@128d2484]" started-at="2023-02-17T16:45:33 EET" name="afterSuite" finished-at="2023-02-17T16:45:33 EET" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- use_cases.SuccessfulCheckout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
